@@ -1,10 +1,10 @@
-<div>
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80" alt="Header Image" style="width: 100%; height: auto; display: block;">
-    <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=3f70af&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Hojeong's+GitHub!" alt="Typing SVG" style="width: 100%; height: auto; display: block;">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80" alt="Header Image" style="width: 100%; height: auto; display: block;">
+<img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=3f70af&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Hojeong's+GitHub!" alt="Typing SVG" style="width: 100%; height: auto; display: block;">
     
-    <hr>
-    <br>
-<div>
+<hr>
+<br>
+
     
 <h3>🔨 Tech Stack 🔨</h3>
 <div class="tech-stack">
@@ -43,38 +43,38 @@
             <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white">
             <img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white">
         </div>
-    </div>
-    <br><br>
+</div>
+<br><br>
     
-    <h3>💻 DEV's log 💻</h3>
-    <div class="dev-log">
+<h3>💻 DEV's log 💻</h3>
+<div class="dev-log">
         <a href="https://pumped-square-544.notion.site/81c219b2c2304d18a070df815726005a">
             <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
         </a>
         <a href="https://velog.io/@hjung43">
             <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
         </a>
-    </div>
-    <br><br>
+</div>
+<br><br>
     
-    <h3>🙌 Experience 🙌</h3>
-    <ul>
-        <li>2023.07 ~ 2024.06 삼성 청년 SW 아카데미 10기 수료</li>
-    </ul>
-    <br><br>
+<h3>🙌 Experience 🙌</h3>
+<ul>
+     <li>2023.07 ~ 2024.06 삼성 청년 SW 아카데미 10기 수료</li>
+</ul>
+<br><br>
     
-    <h3>🏆 Awards / Certificates 🏆</h3>
-    <ul>
-        <li>2024.05 삼성 청년 SW 아카데미 자율프로젝트 우수상 2등 (삼성전자주식회사)</li>
-        <li>2024.04 삼성 청년 SW 아카데미 특화프로젝트 우수상 1등 (삼성전자주식회사)</li>
-        <li>2023.12 SQL 개발자 (한국데이터산업진흥원)</li>
-        <li>2019.09 컴퓨터활용능력 2급 (대한상공회의소)</li>
-        <li>2018.06 GTQ 2급 (한국생산성본부)</li>
-    </ul>
-    <br><br>
+<h3>🏆 Awards / Certificates 🏆</h3>
+<ul>
+     <li>2024.05 삼성 청년 SW 아카데미 자율프로젝트 우수상 2등 (삼성전자주식회사)</li>
+     <li>2024.04 삼성 청년 SW 아카데미 특화프로젝트 우수상 1등 (삼성전자주식회사)</li>
+     <li>2023.12 SQL 개발자 (한국데이터산업진흥원)</li>
+     <li>2019.09 컴퓨터활용능력 2급 (대한상공회의소)</li>
+     <li>2018.06 GTQ 2급 (한국생산성본부)</li>
+</ul>
+<br><br>
     
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=hjung43&show_icons=true&hide_title=true&hide_border=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="hjung43" /> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjung43&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="hjung43" />
-    </p>
-    <br><br>
+<p>
+     <img src="https://github-readme-stats.vercel.app/api?username=hjung43&show_icons=true&hide_title=true&hide_border=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="hjung43" /> 
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjung43&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="hjung43" />
+</p>
+<br><br>
