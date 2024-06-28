@@ -2,12 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80" alt="Header Image" style="width: 100%; height: auto; display: block;">
 <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=3f70af&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Hojeong's+GitHub!" alt="Typing SVG" style="width: 100%; height: auto; display: block;">
     
-<div style="display: flex; align-items: center;">
-        <h2 style="margin-right: 10px;">끊임없이 도전하는 개발자 유호정 입니다 :)</h2>
-        <a href="https://hits.seeyoufarm.com">
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjung43&count_bg=%23BAE2FE&title_bg=%234A4A4A&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false" alt="Hits Badge"/>
-        </a>
-    </div>
+## 끊임없이 도전하는 개발자 유호정 입니다 :) <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjung43&count_bg=%23BAE2FE&title_bg=%234A4A4A&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
 
 
     
