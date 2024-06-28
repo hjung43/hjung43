@@ -2,11 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=3f70af&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Hojeong's+GitHub!)](https://git.io/typing-svg)
 
 ### 끊임없이 도전하는 개발자 유호정 입니다!
+---
 <br>
 
 
 
-## 🔨 Tech Stack 🔨
+### 🔨 Tech Stack 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -45,7 +46,7 @@
     </div>
 </div><br><br>
 
-## 💻 DEV's log 💻
+### 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://pumped-square-544.notion.site/81c219b2c2304d18a070df815726005a">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
@@ -56,11 +57,11 @@
   
 </div><br><br>
 
-## 🙌 Experience 🙌
+### 🙌 Experience 🙌
 - 2023.07 ~ 2024.06    삼성 청년 SW 아카데미 10기 수료
 <br><br>
 
-## 🏆 Awards / Certificates 🏆
+### 🏆 Awards / Certificates 🏆
 - 2024.05     삼성 청년 SW 아카데미 자율프로젝트 우수상 2등  (삼성전자주식회사)
 - 2024.04     삼성 청년 SW 아카데미 특화프로젝트 우수상 1등  (삼성전자주식회사)
 - 2023.12     SQL 개발자 (한국데이터산업진흥원)
