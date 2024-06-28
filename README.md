@@ -2,9 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80" alt="Header Image" style="width: 100%; height: auto; display: block;">
 <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=3f70af&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Hojeong's+GitHub!" alt="Typing SVG" style="width: 100%; height: auto; display: block;">
     
-<hr>
-<br>
-<h3>끊임없이 도전하는 개발자 유호정 입니다 :)</h3>
+
+
+<h2>끊임없이 도전하는 개발자 유호정 입니다 :)</h2>
 
     
 <h3>🔨 Tech Stack 🔨</h3>
