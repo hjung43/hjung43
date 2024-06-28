@@ -4,7 +4,7 @@
     
 ## 끊임없이 도전하는 개발자 유호정 입니다 :) <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjung43&count_bg=%23BAE2FE&title_bg=%234A4A4A&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
 
-
+<br>
     
 <h3>🔨 Tech Stack 🔨</h3>
 <div class="tech-stack">
@@ -44,7 +44,7 @@
             <img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white">
         </div>
 </div>
-<br><br>
+<br>
     
 <h3>💻 DEV's log 💻</h3>
 <div class="dev-log">
@@ -55,13 +55,13 @@
             <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
         </a>
 </div>
-<br><br>
+<br>
     
 <h3>🙌 Experience 🙌</h3>
 <ul>
      <li>2023.07 ~ 2024.06 삼성 청년 SW 아카데미 10기 수료</li>
 </ul>
-<br><br>
+<br>
     
 <h3>🏆 Awards / Certificates 🏆</h3>
 <ul>
@@ -71,10 +71,10 @@
      <li>2019.09 컴퓨터활용능력 2급 (대한상공회의소)</li>
      <li>2018.06 GTQ 2급 (한국생산성본부)</li>
 </ul>
-<br><br>
+<br>
     
 <p>
      <img src="https://github-readme-stats.vercel.app/api?username=hjung43&show_icons=true&hide_title=true&hide_border=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="hjung43" /> 
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjung43&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="hjung43" />
 </p>
-<br><br>
+<br>
