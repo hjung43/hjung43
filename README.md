@@ -5,8 +5,8 @@
     <hr>
     <br>
     
-    <h3>🔨 Tech Stack 🔨</h3>
-    <div class="tech-stack">
+<h3>🔨 Tech Stack 🔨</h3>
+<div class="tech-stack">
         <!-- Backend -->
         <p><strong>Backend</strong></p>
         <div>
