@@ -3,7 +3,7 @@
 
 ### 끊임없이 도전하는 개발자 유호정 입니다!
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=hjung43&show_icons=true&hide_title=true&hide_border=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjung43&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p><br><br>
+
 
 
 ## 🔨 Tech Stack 🔨
@@ -60,12 +60,11 @@
 - 2023.07 ~ 2024.06    삼성 청년 SW 아카데미 10기 수료
 <br><br>
 
-
-
-
 ## 🏆 Awards / Certificates 🏆
 - 2024.05     삼성 청년 SW 아카데미 자율프로젝트 우수상 2등  (삼성전자주식회사)
 - 2024.04     삼성 청년 SW 아카데미 특화프로젝트 우수상 1등  (삼성전자주식회사)
 - 2023.12     SQL 개발자 (한국데이터산업진흥원)
 - 2019.09     컴퓨터활용능력 2급 (대한상공회의소)
 - 2018.06     GTQ 2급 (한국생산성본부)
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=hjung43&show_icons=true&hide_title=true&hide_border=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjung43&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p><br><br>
