@@ -4,6 +4,7 @@
     
     <hr>
     <br>
+<div>
     
 <h3>🔨 Tech Stack 🔨</h3>
 <div class="tech-stack">
@@ -77,4 +78,3 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjung43&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="hjung43" />
     </p>
     <br><br>
-</div>
